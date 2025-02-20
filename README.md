@@ -1,4 +1,4 @@
-Here are some ideas to get you started:
+## Hi There 👋 
 
 - 🔭 Hoje trabalho com Back-End 
 - 🌱 Estudando Machine Learning  
