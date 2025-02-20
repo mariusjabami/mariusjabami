@@ -1,7 +1,6 @@
-## Hi There 👋 
+## Olá! Eu sou o Marius Jabami
 
 - 🔭 Hoje trabalho com Back-End 
-- 🌱 Estudando Machine Learning  
-- 👯 Contate-me no email: mariusjabami@gmail.com
+- 🌱 Estudando Machine Learning
 - 😄 Pronouns: ele/dele 
 
