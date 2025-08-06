@@ -8,7 +8,7 @@
 ### 📌 Quem sou eu?
 
 - 👤 **Nome**: Marius Jabami  
-- 🚀 **Cargo**: Founder & AI Architect at **λχ Corp.**  
+- 🚀 **Cargo**: Founder & AI Scientist at **λχ Corp.**  
 - 🔭 **Trabalho atual**: Back-End Developer • Machine Learning Researcher  
 - 🧬 **Missão**: Construir IA com propósito estratégico e reasoning puro  
 - ⚙️ **Tecnologias**: `Python`, `C#`, `C`, `C++`, `SQLite`, `Termux`, `.NET MAUI`  
