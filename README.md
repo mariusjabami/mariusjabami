@@ -9,7 +9,7 @@
 
 - 👤 **Nome**: Marius Jabami  
 - 🚀 **Cargo**: Founder & AI Scientist at **λχ Corp.**  
-- 🔭 **Trabalho atual**: Back-End Developer • Machine Learning Researcher  
+- 🔭 **Trabalho atual**: Back-End Developer • Machine Learning Researcher • AI Scientist  
 - 🧬 **Missão**: Construir IA com propósito estratégico e reasoning puro  
 - ⚙️ **Tecnologias**: `Python`, `C#`, `C`, `C++`, `SQLite`, `Termux`, `.NET MAUI`  
 - 💻 **Infraestrutura**: Google Colab • Hugging Face • GitHub  
