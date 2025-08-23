@@ -1,6 +1,6 @@
 ## λχ Olá, eu sou Marius Jabami
 
-> 🧠 Dev estratégico | Founder da **λχ Corp.**  
+> 🧠 Dev estratégico | Founder da **λχ Corp.** e Co-Founder  da **SEC-0**
 > “Quem pensa com precisão, constrói o futuro.”
 
 ---
@@ -8,8 +8,8 @@
 ### 📌 Quem sou eu?
 
 - 👤 **Nome**: Marius Jabami  
-- 🚀 **Cargo**: Founder & AI Scientist at **λχ Corp.**  
-- 🔭 **Trabalho atual**: Back-End Developer • Machine Learning Researcher • AI Scientist  
+- 🚀 **Cargo**: Founder & AI Scientist at **λχ Corp.**  and **SEC-0** 
+- 🔭 **Trabalho atual**: Back-End Developer • Machine Learning Researcher • AI Scientist • Pentester
 - 🧬 **Missão**: Construir IA com propósito estratégico e reasoning puro  
 - ⚙️ **Tecnologias**: `Python`, `C#`, `C`, `C++`, `SQLite`, `Termux`, `.NET MAUI`  
 - 💻 **Infraestrutura**: Google Colab • Hugging Face • GitHub  
