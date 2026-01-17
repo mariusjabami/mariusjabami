@@ -1,14 +1,17 @@
 ## Marius Jabami
 
-ML Engineer building efficient language models for Portuguese-speaking markets.
+Engenheiro de ML construindo modelos de linguagem eficientes para mercados lusófonos.
 
-Currently working on [lambdAI](https://huggingface.co/lxcorp/lambda-1v-1B) — a 1.1B parameter model optimized for reasoning on limited hardware.
+Atualmente trabalhando no [WNL468M](https://huggingface.co/lxcorp/WNL468M) — um modelo de 468M de parâmetros otimizado para raciocínio em hardware limitado.
 
 ---
 
-### Contact
+### Contato
 
-[Hugging Face](https://huggingface.co/lxcorp) • [LinkedIn](https://linkedin.com/in/mariusjabami) • [Email](mailto:mariusjabami@gmail.com) • [Discord](https://discord.com/users/mariusjabami)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/lxcorp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariusjabami)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariusjabami@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mariusjabami)
 
 ---
 
