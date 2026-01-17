@@ -1,77 +1,88 @@
-## 👋 Marius Jabami
+## Marius Jabami
 
-**Engenheiro de IA & Founder @ λχ Corp** | Construindo sistemas inteligentes a partir dos fundamentos
+**Machine Learning Engineer | Founder @ λχ Corp**
 
-Desenvolvedor angolano focado em tornar IA acessível na África lusófona através de modelos leves e open-source que funcionam em hardware limitado.
+Especializado no desenvolvimento de modelos de linguagem leves e eficientes para português, com foco em acessibilidade computacional e implementações de baixo nível.
 
 ---
 
-### 🛠️ O que Construo
+### Experiência & Competências
 
-**Foco Atual:**
-- 🤖 Modelos de linguagem pequenos otimizados para raciocínio (lambdAI, Synap)
-- 🔧 Implementações de ML de baixo nível (redes neurais do zero em C++)
-- 📱 Soluções de IA mobile-first para mercados emergentes
-- 🔐 Pesquisa em segurança & pentesting (SEC-0)
+**Áreas de Atuação:**
+- Desenvolvimento e fine-tuning de Large Language Models (1B-2B parâmetros)
+- Implementação de arquiteturas neurais from-scratch (C++/Python puro)
+- Otimização de modelos para inferência em dispositivos móveis
+- Engenharia de backend e desenvolvimento full-stack (.NET MAUI)
+- Segurança da informação e testes de penetração
 
 **Stack Tecnológico:**
-`Python` `C++` `C#` `.NET MAUI` `PyTorch` `Hugging Face` `SQLite`
+`Python` `C++` `C#` `PyTorch` `Transformers` `Hugging Face` `.NET MAUI` `SQLite` `Git`
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos Principais
 
-#### [lambdAI](https://huggingface.co/lxcorp/lambda-1v-1B) — LLM Português de 1.1B
-Modelo leve de raciocínio treinado em datasets portugueses + subset MATH. Construído para dispositivos com computação limitada.
+#### [lambdAI](https://huggingface.co/lxcorp/lambda-1v-1B) | LLM Português 1.1B Parâmetros
+Modelo de linguagem otimizado para raciocínio lógico-matemático, baseado na arquitetura TinyLlama com treinamento customizado em corpus português e datasets especializados (MATH subset).
 
-- ⚡ Otimizado para lógica e raciocínio matemático
-- 🌍 Suporte nativo ao português
-- 📖 [Testar no Colab](https://colab.research.google.com/drive/1o4IIGYIV5OY0by8qEKrNvsxwq4NYuNZL?usp=sharing)
-- 📦 [Ver no HF](https://huggingface.co/lxcorp)
+**Características técnicas:**
+- Arquitetura transformer otimizada para dispositivos de baixa capacidade
+- Treinamento em datasets curados de português + raciocínio matemático
+- Inferência eficiente em hardware limitado (mobile-compatible)
+- Disponível via [Hugging Face](https://huggingface.co/lxcorp) | [Demo Colab](https://colab.research.google.com/drive/1o4IIGYIV5OY0by8qEKrNvsxwq4NYuNZL?usp=sharing)
 
-#### [Synap](https://github.com/mariusjabami/synap) — Rede Neural do Zero
-Implementação pura em C++ de backpropagation, gradiente descendente e ativação não-linear. Mergulho educacional em como redes neurais realmente funcionam.
+#### [Synap](https://github.com/mariusjabami/synap) | Implementação Neural Network em C++
+Framework educacional de rede neural implementado do zero em C++ puro, sem dependências externas. Inclui backpropagation manual, gradiente descendente e funções de ativação não-lineares.
 
-#### [L0](https://huggingface.co/lxcorp) — NN Python Sem Dependências
-Rede neural escrita inteiramente em Python sem bibliotecas externas. Construída para entender os fundamentos.
+**Objetivo:** Demonstrar compreensão profunda dos fundamentos matemáticos e computacionais de deep learning.
 
----
-
-### 📊 Atividade no GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=mariusjabami&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusjabami&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117)
+#### [L0](https://huggingface.co/lxcorp) | Neural Network Zero-Dependency
+Implementação didática de rede neural em Python vanilla (sem NumPy, TensorFlow ou PyTorch). Projeto focado em transparência algorítmica e compreensão de primeiros princípios.
 
 ---
 
-### 🎯 Missão
+### Estatísticas GitHub
 
-Tornar o desenvolvimento de IA acessível na África lusófona através de:
-1. Construir modelos que funcionam em smartphones de $100
-2. Publicar tudo como open-source
-3. Documentar o processo de aprendizado
-4. Treinar em português, não apenas traduzir modelos em inglês
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariusjabami&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusjabami&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117)
 
 ---
 
-### 📫 Contato
+### Objetivos & Missão
 
-- 💼 [LinkedIn](https://linkedin.com/in/mariusjabami)
-- 🤗 [Hugging Face](https://huggingface.co/lxcorp)
-- 📧 mariusjabami@gmail.com
-- 🌐 [Website](https://wxay.netlify.app)
+Democratizar o acesso a tecnologias de IA na África lusófona através de:
 
-[![Discord](https://img.shields.io/badge/Discord-Entrar%20no%20Servidor-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/HcbGgBnV)
-[![Instagram](https://img.shields.io/badge/@mariusjabami-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mariusjabami)
-
----
-
-### 💭 Princípios
-
-> "Construir em público. Aprender dos fundamentos. Entregar incrementalmente."
-
-Inspirado pela filosofia de engenharia da xAI, a velocidade de execução da SpaceX, e o ethos open-source da Hugging Face.
+1. **Eficiência Computacional** — Modelos que operam em hardware de baixo custo (smartphones entry-level)
+2. **Open Source First** — Transparência total do código e metodologias de treinamento
+3. **Localização Real** — Modelos treinados nativamente em português, não adaptados de traduções
+4. **Documentação Técnica** — Compartilhamento público do processo de desenvolvimento e aprendizado
 
 ---
 
-**λχ Corp** · _Pensar com clareza. Construir com propósito._
+### Publicações & Recursos
+
+- 📦 [Hugging Face Organization](https://huggingface.co/lxcorp) — Modelos e datasets publicados
+- 💻 [GitHub Repositories](https://github.com/mariusjabami) — Código-fonte aberto
+- 🌐 [Website Institucional](https://wxay.netlify.app) — λχ Corp
+
+---
+
+### Contato Profissional
+
+- **Email:** mariusjabami@gmail.com
+- **LinkedIn:** [linkedin.com/in/mariusjabami](https://linkedin.com/in/mariusjabami)
+- **Hugging Face:** [@lxcorp](https://huggingface.co/lxcorp)
+
+[![Discord Community](https://img.shields.io/badge/Discord-Comunidade_Técnica-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/HcbGgBnV)
+
+---
+
+### Filosofia de Trabalho
+
+Desenvolvimento orientado por primeiros princípios, documentação rigorosa e compartilhamento de conhecimento. 
+
+Influências metodológicas: arquitetura minimalista (xAI), execução ágil (SpaceX), colaboração aberta (Hugging Face).
+
+---
+
+**λχ Corp** — *Engenharia fundamentada. Execução disciplinada.*
