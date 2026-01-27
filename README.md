@@ -28,3 +28,5 @@ Atualmente trabalhando no [ASP](https://github.com/mariusjabami/ASP) — uma arq
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![](https://nirzak-streak-stats.vercel.app/?user=mariusjabami&theme=dark&hide_border=false)
