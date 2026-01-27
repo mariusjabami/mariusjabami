@@ -2,7 +2,7 @@
 
 Engenheiro de ML e Low-Level, diretamente de onde os demonios saem. Do inferno!
 
-Odeio profundamente o Vibe-Code e todos os seus apoiadores, tenho C no coração e na alma. Queres me ver perdido? Me aloca na memória desse endereço &casa.
+Odeio profundamente o Vibe-Code e todos os seus apoiadores, tenho C no coração e na alma. Queres me ver perdido? Me aloca na memória desse endereço `&casa`.
 
 Atualmente trabalhando no [ASP](https://github.com/mariusjabami/ASP) — uma arquitetura MLP para previsão de dados númericos, tudo escrito em C e capaz de rodar em qualquer lugar! Diz-se que roda até no papel (com muita paciência).
 
