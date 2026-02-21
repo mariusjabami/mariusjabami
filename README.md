@@ -53,7 +53,7 @@ Building efficient, from-scratch AI and systems for resource-constrained environ
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariusjabami&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariusjabami&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariusjabami&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
 
