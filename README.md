@@ -52,10 +52,14 @@ Building efficient, from-scratch AI and systems for resource-constrained environ
   <a href="https://x.com/mariusjabami"><img src="https://img.shields.io/badge/X-@mariusjabami-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </div>
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mariusjabami&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariusjabami&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+---
 
 Open to collaborations on low-level AI, embedded ML, edge computing, open-source contributions, mentorship, or partnerships with real-world impact — especially in education, healthcare, and resource-constrained environments.
 
