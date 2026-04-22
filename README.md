@@ -28,6 +28,12 @@ Building efficient, from-scratch AI and systems for resource-constrained environ
   Lightweight LLMs optimized for Portuguese and low-resource inference: lambda-1v-1B, Link-270M GGUF, Synap-2b, WNL468M.  
   Focus: education, logical reasoning, and edge deployment.
 
+### Competitive Codes
+<div align="center">
+  <img src="https://www.codewars.com/users/mariusjabami/badges/large" alt="C"/>
+</div>
+
+
 ### Technologies & Tools
 
 <div align="center">
