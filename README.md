@@ -17,8 +17,17 @@ Alguns projectos:
 
 ---
 
+Modelos de IA publicados via [λχ Corp](https://huggingface.co/lxcorp):
+
+- [**lambda-1v-1B**](https://huggingface.co/lxcorp/lambda-1v-1B) — LLM de 1.1B parâmetros para raciocínio matemático e lógico. Fine-tuned com LoRA + quantização 8-bit sobre TinyLlama. Português e inglês.
+- [**Synap-2b**](https://huggingface.co/lxcorp/Synap-2b) — Modelo conversacional de 2B parâmetros.
+- [**Link-270M-GGUF**](https://huggingface.co/lxcorp/Link-270M-GGUF) — 270M parâmetros em GGUF, optimizado para inferência em dispositivos leves.
+- [**WNL468M**](https://huggingface.co/lxcorp/WNL468M) — 468M parâmetros, experimental.
+
+---
+
 **Stack:** C · C++ · C# · ARM Assembly · Python · PyTorch · .NET
 
 ---
 
-Contacto: [LinkedIn](https://linkedin.com/in/mariusjabami) · [mariusjabami@gmail.com](mailto:mariusjabami@gmail.com) · [X](https://x.com/mariusjabami)
+Contacto: [mariusjabami@gmail.com](mailto:mariusjabami@gmail.com) · [X](https://x.com/mariusjabami)
