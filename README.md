@@ -7,6 +7,7 @@ Fundador da **ClosedAI**, Angola.
 
 Alguns projectos:
 
+- [**BYTE**](https://github.com/mariusjabami/BYTE) — Blockchain Proof-of-Stake anónima escrita em C. Opera sobre Tor, supply fixo de 21M, protocolo P2P binário próprio, ECDSA, slashing e seed phrases — tudo do zero.
 - [**ASP**](https://github.com/mariusjabami/ASP) — Rede neural MLP em C puro. Corre em microcontroladores com 512KB de RAM.
 - [**Medusa**](https://github.com/mariusjabami/medusa) — Agente de IA para análise de código via CLI. Construído em C + Gemini API para o hackathon da Google DeepMind.
 - [**j32**](https://github.com/mariusjabami/j32) — Kernel bare-metal para ARM32 escrito do zero: bootloader, memória e drivers.
